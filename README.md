@@ -1,3 +1,19 @@
+# NotesSharing_webApp_NM_FullStackPDjango_Project
+
+Project Developed by:
+
+Name : Muhammed Midlaj R
+Regnumber : 720921244033
+College name : JCT College of Engineering and technology Coimbatore
+
+
+Login credentials:
+
+
+Username: admin
+
+Password: admin
+
 # django-notesapp
 Notes Sharing App using django(python framework)
 
